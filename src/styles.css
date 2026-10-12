@@ -237,8 +237,30 @@ a { color: inherit; }
   .section-intro h1 { font-size: clamp(25px, 6.5vw, 34px); letter-spacing: -0.6px; line-height: 1.27; }
   .section-intro p { margin-top: 8px; font-size: 12px; line-height: 1.6; }
   .search-location-row { flex-direction: column; gap: 9px; }
-  .search-box { height: 54px; padding: 0 13px; gap: 9px; border-radius: 13px; }
-  .search-box input { font-size: 13px; }
+  /* Make the search field prominent and comfortable to use on phones. */
+  .search-box {
+    height: 64px;
+    min-height: 64px;
+    padding: 0 16px;
+    gap: 12px;
+    border: 2px solid #c98a7d;
+    border-radius: 15px;
+    background: #fffdf9;
+    box-shadow: 0 4px 14px rgba(61, 34, 23, 0.08);
+  }
+  .search-box > svg {
+    width: 27px;
+    height: 27px;
+    flex: 0 0 27px;
+  }
+  .search-box input {
+    min-width: 0;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.4;
+  }
+  .search-box input::placeholder { color: #75675e; opacity: 1; }
+  .clear-search { width: 40px; height: 40px; flex: 0 0 40px; }
   .search-shortcut { display: none; }
   .button-location { width: 100%; min-height: 48px; border-radius: 12px; }
   .helper-line { margin-top: 9px; font-size: 10px; text-align: left; justify-content: flex-start; }
@@ -295,6 +317,9 @@ a { color: inherit; }
 }
 @media (max-width: 390px) {
   .brand-copy strong { max-width: 163px; font-size: 12px; }
+  .search-box { padding: 0 12px; gap: 9px; }
+  .search-box input { font-size: 16px; }
+  .search-box > svg { width: 25px; height: 25px; flex-basis: 25px; }
   .help-grid { grid-template-columns: minmax(0, 1fr); }
   .footer-official-links { align-items: flex-start; flex-direction: column; gap: 8px; }
   .brand-copy span { font-size: 8px; }
