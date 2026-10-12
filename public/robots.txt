@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://durga-pujo-map-guide-for-bangaon-2026.pages.dev/sitemap.xml
