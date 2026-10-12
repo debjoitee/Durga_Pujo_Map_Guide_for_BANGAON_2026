@@ -1,0 +1,2045 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Gate Sporting Club",
+    "address": "Shimultal, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.044614,
+    "longitude": 88.833013,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 2,
+    "name": "Shimultala Baroari Puja Committee",
+    "address": "Barowari Tala, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04505,
+    "longitude": 88.8359,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 3,
+    "name": "12th Pally Sporting Club",
+    "address": "Ramnagar Road, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04673,
+    "longitude": 88.82911,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 4,
+    "name": "Avijan Sangha",
+    "address": "Korarbagan (Jossore Road) , PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04015,
+    "longitude": 88.82917,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 5,
+    "name": "Prafulla Nagar Sanaskritik Chakra",
+    "address": "Railbazar, Sahapara, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.0412,
+    "longitude": 88.8251,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 6,
+    "name": "Pratapgarh Sporting Club",
+    "address": "Chakdah Road, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.049316,
+    "longitude": 88.82381,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 7,
+    "name": "Bongaon Ramnagar Road Sporting Club",
+    "address": "Pipe Road, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.030575,
+    "longitude": 88.831989,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 8,
+    "name": "Purbapara Yubak Brinda",
+    "address": "Purbapara,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.036665,
+    "longitude": 88.821805,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 9,
+    "name": "Amlapara  Athletic Club",
+    "address": "Amlapara, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.044005,
+    "longitude": 88.826507,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 10,
+    "name": "Gandhipally Vivekanda Sporting Club",
+    "address": "Gandhipally Road, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.047046,
+    "longitude": 88.830043,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 11,
+    "name": "Nobel Sporting Club",
+    "address": "Korarbagan ward No. 15) , PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.038581,
+    "longitude": 88.832637,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 12,
+    "name": "Kuthibari Sporting Club",
+    "address": "Kutibari, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.055589,
+    "longitude": 88.831508,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 13,
+    "name": "Agiye Cholo Sangha (03 No. Tali Khola)",
+    "address": "03 No. Talikhola, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.049315,
+    "longitude": 88.832249,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 14,
+    "name": "Charaktala Sporting Club",
+    "address": "Charaktala, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.044691,
+    "longitude": 88.825059,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 15,
+    "name": "Mustafipara Yuba Gosthi",
+    "address": "Mustafipara,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.044983,
+    "longitude": 88.832905,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 16,
+    "name": "Diamond Club (Basakpara)",
+    "address": "Basakpara,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.043672,
+    "longitude": 88.83971,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 17,
+    "name": "Jnan Bikashini Sangha",
+    "address": "Military Road,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04775,
+    "longitude": 88.841015,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 18,
+    "name": "New Kalyan Sangha",
+    "address": "Dhakapara (near station) PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.030684,
+    "longitude": 88.828142,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 19,
+    "name": "Bongaon Sree Sree Anandamayee Matrimandir",
+    "address": "Hospital Kalibari Road,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.043483,
+    "longitude": 88.832284,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 20,
+    "name": "Shimultala Pallimangal Samity",
+    "address": "Shimultala,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.045127,
+    "longitude": 88.836148,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 21,
+    "name": "Sikder pally Dakshin Bongaon Yuba Gosthi",
+    "address": "Sikder pally, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.033352,
+    "longitude": 88.84102,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 22,
+    "name": "Railway Sarbajanin Durga Puja Committee (Vaijayanta Club)",
+    "address": "Station Road (near Bongaon Station)  PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.032548,
+    "longitude": 88.841634,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 23,
+    "name": "Ratepara Sporting Club",
+    "address": "Ratepara,  PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.047746,
+    "longitude": 88.824564,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 24,
+    "name": "Taltala Athletic Club  (Mahila Puja)",
+    "address": "Taltala,  PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.031692,
+    "longitude": 88.842095,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 25,
+    "name": "Subashnagar Seba Samity",
+    "address": "Subashnagar Road,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.036098,
+    "longitude": 88.823063,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 26,
+    "name": "Udayan Sangha",
+    "address": "Kurirmath,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.032306,
+    "longitude": 88.840552,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 27,
+    "name": "11 Pally Yuba Gosthi",
+    "address": "Duttapara,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.040803,
+    "longitude": 88.830899,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 28,
+    "name": "Debgarh Sporting Club",
+    "address": "Debgarh,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.044341,
+    "longitude": 88.816867,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 29,
+    "name": "Shimultala Santi Sangha",
+    "address": "Shimultala,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04156,
+    "longitude": 88.833816,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 30,
+    "name": "Motiganj Agiye Chalo Sangha",
+    "address": "Motiganj Bus Stand, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04661,
+    "longitude": 88.83522,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 31,
+    "name": "Subhasnagar Sporting Club",
+    "address": "Subhasnagar PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.039056,
+    "longitude": 88.822545,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 32,
+    "name": "United Sporting Club",
+    "address": "Champaberiya Road,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.032159,
+    "longitude": 88.828539,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 33,
+    "name": "Saktigarh Milan Sangha",
+    "address": "Saktigarh,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.035403,
+    "longitude": 88.826828,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 34,
+    "name": "Paschimpara Sporting Club",
+    "address": "Paschimpara,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.042487,
+    "longitude": 88.82569,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 35,
+    "name": "Saktigarh Agragrami Sporting Club",
+    "address": "Saktigarh,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.034649,
+    "longitude": 88.827269,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 36,
+    "name": "Vidyayatan Club (Champaberia )",
+    "address": "Champaberia, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.05476,
+    "longitude": 88.814592,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 37,
+    "name": "Sri Siddheswari Kali Mandir Seva",
+    "address": "Hospital Kalibari Road,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.064413,
+    "longitude": 88.832927,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 38,
+    "name": "Bakshipally Young Bengal Sporting Club",
+    "address": "Bakshipally, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.036555,
+    "longitude": 88.826994,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 39,
+    "name": "Kanthaltala Sporting Club",
+    "address": "Motiganj Fire Bidge Road, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04847,
+    "longitude": 88.835519,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 40,
+    "name": "Durga Puja Committee office of the S.S.E/P.W. BNJ",
+    "address": "Station Road (near Bongaon Station)  PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.048562,
+    "longitude": 88.822708,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 41,
+    "name": "Bongaon Sporting Club",
+    "address": "Amlapara, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.042305,
+    "longitude": 88.829953,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 42,
+    "name": "Peadapara Sporting Club",
+    "address": "Peadapara, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.034972,
+    "longitude": 88.841445,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 43,
+    "name": "Debgarh Baishakhi Sporting Club",
+    "address": "Debgarh, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.045429,
+    "longitude": 88.812725,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 44,
+    "name": "Dinabandu Smriti Sangha",
+    "address": "Dinabandunagar Bazar, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.041882,
+    "longitude": 88.836407,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 45,
+    "name": "15th pally Yubo Gosthi",
+    "address": "Motiganj Near Petrol pump",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.043192,
+    "longitude": 88.837391,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 46,
+    "name": "Vasoman Sporting Club",
+    "address": "Khairamari, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.054424,
+    "longitude": 88.827002,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 47,
+    "name": "Chakdah Road Babsayee Samity",
+    "address": "Chakdah Road (near town hall)  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.046933,
+    "longitude": 88.8285566,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 48,
+    "name": "Swamiji Sporting Club",
+    "address": "Khairamari, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.043925,
+    "longitude": 88.827605,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 49,
+    "name": "Saktigarh Yuba Gosthi",
+    "address": "Saktigarh, PS Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.035412,
+    "longitude": 88.827806,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 50,
+    "name": "Simultala Sarbojanin Durga Puja",
+    "address": "Simultala, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.045023,
+    "longitude": 88.836174,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 51,
+    "name": "Collegepara Durga Puja Committee",
+    "address": "Collegepara, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.056583,
+    "longitude": 88.828235,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 52,
+    "name": "Duttapara United Club",
+    "address": "Kalghat,  PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.038856,
+    "longitude": 88.834699,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 53,
+    "name": "Bibhuti Bhusan  Sansakriti  Sanstha (Kuthibari)",
+    "address": "Kuthibari near bagdah Road, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.055473,
+    "longitude": 88.832013,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 54,
+    "name": "Matiganj Sporting Club",
+    "address": "Netaji market near Jossore Road, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.045838,
+    "longitude": 88.834787,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 55,
+    "name": "Bongaon Purbapara Progati Sangha",
+    "address": "Purbapara, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.03726,
+    "longitude": 88.837659,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 56,
+    "name": "Milanpally Mahila Mangal Samity",
+    "address": "Milanpally near parking, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.030247,
+    "longitude": 88.843756,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 57,
+    "name": "Sonali Sporting Club",
+    "address": "Sonalir More, Court Road, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.0475,
+    "longitude": 88.8242,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 58,
+    "name": "Ujjal Meghalaya Sangha (Shimultala)",
+    "address": "shimultala, Chamrakuti Road, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.046396,
+    "longitude": 88.837389,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 59,
+    "name": "Ujjal Sangha",
+    "address": "Batar More, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.052,
+    "longitude": 88.8415,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 60,
+    "name": "Bangarupa Sporting Club",
+    "address": "2 No. gate, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.045008,
+    "longitude": 88.815226,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 61,
+    "name": "Netaji Sangha ,Purbapara",
+    "address": "Purbapara (Khaldhar) PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.034755,
+    "longitude": 88.839248,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 62,
+    "name": "Purbanchal Adhibasi Brinda, Rail Bazar",
+    "address": "Rail Bazar, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.030805,
+    "longitude": 88.834305,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 63,
+    "name": "Shimultala Bankim Smriti Sangha",
+    "address": "Shimultala, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.039405,
+    "longitude": 88.841128,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 64,
+    "name": "Sahid Smrity Sproting Club",
+    "address": "Paschimpara, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.053378,
+    "longitude": 88.80219,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 65,
+    "name": "Champaberia Biplab Sangha",
+    "address": "Champaberia, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.052373,
+    "longitude": 88.815103,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 66,
+    "name": "Bharat Sangha",
+    "address": "Dinabandhu Nagar, Battala, , PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.031848,
+    "longitude": 88.83721,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 67,
+    "name": "Nayakamar Gram Mahila Samity Sarbojonin Durga Puja Committee",
+    "address": "Nayakamar Gram, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.029941,
+    "longitude": 88.823208,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 68,
+    "name": "JOYPUR AKOTA SANGHA SARBOJIN DURGA PUJA COMMITTEE",
+    "address": "JOYPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.033299,
+    "longitude": 88.842774,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 69,
+    "name": "JOYUR SARBOJONIN DURGA UTSOB COMMITTEE",
+    "address": "JOYPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.047533,
+    "longitude": 88.840174,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 70,
+    "name": "BELTOLA NOBORAG SANGHA",
+    "address": "Shimultala, Bhabanipur  Road, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.032878,
+    "longitude": 88.841027,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 71,
+    "name": "JOYPUR FULTOLA COLONY SPORTING CLUB",
+    "address": "JOYPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.0552,
+    "longitude": 88.8285,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 72,
+    "name": "Joypur Mathpara Kishore Sangha",
+    "address": "JOYPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.0512,
+    "longitude": 88.8256,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 73,
+    "name": "Bibhutipally Sahojatri Sporting Club",
+    "address": "Bibhutipally, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.031753,
+    "longitude": 88.846364,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 74,
+    "name": "RMAKRISHNAPALLY ASRAM",
+    "address": "RMAKRISHNAPALLY, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.054169,
+    "longitude": 88.812674,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 75,
+    "name": "LOMBUTALA PUJA COMMITTEE NOTUN GRAM",
+    "address": "Natungram, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.062716,
+    "longitude": 88.820695,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 76,
+    "name": "CHAMPABERIA BELTOLA PUJA MANDIR COMMITTEE",
+    "address": "Champaberia, PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.056421,
+    "longitude": 88.814176,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 77,
+    "name": "SHAKTIGARH NOBODOY SANGHA",
+    "address": "SHAKTIGARH,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.047436,
+    "longitude": 88.813592,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 78,
+    "name": "MAJERPARA SPORTING CLUB",
+    "address": "MAJERPARA, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.036609,
+    "longitude": 88.835875,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 79,
+    "name": "BHARAT SANGHA RAIL BAZAR",
+    "address": "Rail Bazar, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.031691,
+    "longitude": 88.836845,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 80,
+    "name": "Nayagopalgunj Mahila  Durgapuja Committee",
+    "address": "Nayagopalgunj, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.031517,
+    "longitude": 88.829116,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 81,
+    "name": "Pallyshree Amra Sadyasa Brinda",
+    "address": "Pallyshree, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.033912,
+    "longitude": 88.84152,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 82,
+    "name": "BONGAON TOWN PUJA DURGABARI COMMITTEE",
+    "address": "Dighirpar, Court Road, PS Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.0355,
+    "longitude": 88.8225,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 83,
+    "name": "SUBHASNAGAR SATHI SANGHA",
+    "address": "Subhaspally, PS Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.0322,
+    "longitude": 88.8195,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 84,
+    "name": "Motiganj Hatkhola Puja Committee",
+    "address": "Motiganj, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.03394,
+    "longitude": 88.843047,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 85,
+    "name": "Swastik Sangha Subhas Nagar",
+    "address": "Subhaspally, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04104,
+    "longitude": 88.822817,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 86,
+    "name": "Debgarh Dr. B.R.Ambedkar Smriti Sangha",
+    "address": "Debgarh, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.044487,
+    "longitude": 88.817083,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 87,
+    "name": "Bongaon Mahakuma Employees Recreation Club, Court road Bongaon",
+    "address": "Court Raod, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.046757,
+    "longitude": 88.82677,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 88,
+    "name": "Bongaon Barnali Club",
+    "address": "Purbapara, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.035425,
+    "longitude": 88.836142,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 89,
+    "name": "Joypur Sadharan Durgapuja Committee",
+    "address": "Joypur, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.050257,
+    "longitude": 88.842661,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 90,
+    "name": "Bibhutipally Chowmatha Mohila Puja Committee",
+    "address": "Bibhutipally, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.058259,
+    "longitude": 88.824298,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 91,
+    "name": "2 no Rail Gate Kali Bari Puja Committee (Subhaspally)",
+    "address": "2 no Rail Gate, PS Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.04353,
+    "longitude": 88.821336,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 92,
+    "name": "2 no Rail Gate Yuba Gosthi Puja Committee",
+    "address": "2 no Rail Gate, PS Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.043519,
+    "longitude": 88.820903,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 93,
+    "name": "Natungram Sabuj Sangha",
+    "address": "Natungram, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.063597,
+    "longitude": 88.810272,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 94,
+    "name": "Champaberia Ramkrishna Pally Sporting Club",
+    "address": "Champaberiya Road,  PS  Bongaon.",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.056693,
+    "longitude": 88.82187,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 95,
+    "name": "Bongaon Pollysree Matrimangal",
+    "address": "Pollysree, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.029136,
+    "longitude": 88.837271,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 96,
+    "name": "Nabarun Sangha Babupara",
+    "address": "Babupara, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.034131,
+    "longitude": 88.830674,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 97,
+    "name": "Purbapara Khaldhar Mahila Jagrati Samity",
+    "address": "Purbapara, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.033284,
+    "longitude": 88.84093,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 98,
+    "name": "Rail Bazar Mahila Durgapuja Committee",
+    "address": "Rail Bazar, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.030677,
+    "longitude": 88.834444,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 99,
+    "name": "Khairamari Kali Mandir Mahila Committee",
+    "address": "Khairamari, PS  Bongaon",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.050189,
+    "longitude": 88.828203,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 100,
+    "name": "Shanti Committee ,Debgarh , Bongaon",
+    "address": "Debgarh",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.044297,
+    "longitude": 88.817098,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 101,
+    "name": "Bedir More Mahila Committee, Ramkrishanapally",
+    "address": "Ramkrishanapally",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.031106,
+    "longitude": 88.845363,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 102,
+    "name": "Mediapara Yuba Gosthi",
+    "address": "Mediapara",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.027733,
+    "longitude": 88.819385,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 103,
+    "name": "Duttapara Duttabari Sarbojonin Durga Mandir Parichalan Samity",
+    "address": "Duttapara",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.039348,
+    "longitude": 88.831553,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 104,
+    "name": "Yuba Milan Sangha, Nayakamar Gram",
+    "address": "Nayakamar Gram",
+    "areaOrJurisdiction": "Municipality",
+    "latitude": 23.028668,
+    "longitude": 88.823581,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 105,
+    "name": "Netaji Sangha (Kharuarajapur)",
+    "address": "(Kharuarajapur), PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 22.994478,
+    "longitude": 88.753894,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 106,
+    "name": "Kalupur Babupara Smrity Sangha",
+    "address": "Kalupur Babupara, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.02721,
+    "longitude": 88.79654,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 107,
+    "name": "Pratap Nagar Amra sabai Mahila Puja Committee",
+    "address": "Pratap Nagar, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.001551,
+    "longitude": 88.829451,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 108,
+    "name": "Kharua Rajapur Abhijan Sangha",
+    "address": "Kharua Rajapur, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 22.986653,
+    "longitude": 88.745922,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 109,
+    "name": "Chaitapara Aikya Sammilony",
+    "address": "Chaitapara, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.007338,
+    "longitude": 88.75835,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 110,
+    "name": "Dharmapur Sporting Club",
+    "address": "Dharmapur, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.024165,
+    "longitude": 88.776031,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 111,
+    "name": "Uttar Kalupur Grambasi Brinda",
+    "address": "Uttar Kalupur, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.030256,
+    "longitude": 88.797623,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 112,
+    "name": "New Yobak Samittee,Satbhai Kalitala",
+    "address": "Puratan Bongaon, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.026029,
+    "longitude": 88.848972,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 113,
+    "name": "Purbapara Sarbajanin,Puratan Bongaon",
+    "address": "Purbapara, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.014766,
+    "longitude": 88.854952,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 114,
+    "name": "Majherpara Sporting Club,Puratan Bongaon",
+    "address": "Majherpara, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.020674,
+    "longitude": 88.848353,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 115,
+    "name": "Vivekananda Yabak brinda,Puratan Bongaon",
+    "address": "Puratan Bongaon, Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.022021,
+    "longitude": 88.851032,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 116,
+    "name": "Puratan Bongaon Ghoshpara Nabin Sangha",
+    "address": "Puratan Bongaon Ghoshpara, Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.017084,
+    "longitude": 88.850058,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 117,
+    "name": "Panchpota Grambashi Binda",
+    "address": "Panchpota, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.0283,
+    "longitude": 88.8197,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 118,
+    "name": "Panchpota Agradut Club",
+    "address": "Panchpota, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.0545,
+    "longitude": 88.848008,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 119,
+    "name": "Kalupur Bazar Committee",
+    "address": "Kalupur, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.017801,
+    "longitude": 88.810785,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 120,
+    "name": "Unai Grambashi Brinda Puja Committee",
+    "address": "Unai, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.009994,
+    "longitude": 88.845953,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 121,
+    "name": "Samaj Unnayan Samitee,Kalupur Ghoshpara",
+    "address": "Kalupur Ghoshpara, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.022015,
+    "longitude": 88.81348,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 122,
+    "name": "Kalupur Beler Math Yabo Seba Sangha",
+    "address": "Kalupur, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.021883,
+    "longitude": 88.810241,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 123,
+    "name": "Kalupur Yangstar Club",
+    "address": "Kalupur, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.020367,
+    "longitude": 88.806638,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 124,
+    "name": "Ballavpur Samaj Shikha Kendra Sarbajanin Durgapuja Committee",
+    "address": "Ballavpur, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.008838,
+    "longitude": 88.777596,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 125,
+    "name": "Pragati Sangha,Kalupur Gitapally",
+    "address": "Kalupur Gitapally, Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.021905,
+    "longitude": 88.813243,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 126,
+    "name": "Ballavpur Paschimpara Netaji Pally Durga Puja Committee",
+    "address": "Ballavpur Paschimpara, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.00956,
+    "longitude": 88.774705,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 127,
+    "name": "Shibpur Durgapuja Committee",
+    "address": "Shibpur, PS Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 22.991385,
+    "longitude": 88.764881,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 128,
+    "name": "Jeala Bazar Babosayee Samity",
+    "address": "Jeala Baza, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.014307,
+    "longitude": 88.778474,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 129,
+    "name": "Hanidanga Akata Sanga",
+    "address": "Hanidanga, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.026909,
+    "longitude": 88.778165,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 130,
+    "name": "Naba Tarun Sangha, Kalupur",
+    "address": "Kalupur, PS  Bongaon",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.02545,
+    "longitude": 88.818008,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 131,
+    "name": "Kalupur Ghoshpara Amra Sabai Sangha Grambashibrinda",
+    "address": "Kalupur",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.017294,
+    "longitude": 88.803631,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 132,
+    "name": "Amra Sabai Sangha,Ashannagar",
+    "address": "Asannagar",
+    "areaOrJurisdiction": "Kalupur",
+    "latitude": 23.016305,
+    "longitude": 88.790041,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 133,
+    "name": "Paikpara Sabuj Sangha",
+    "address": "Paikpara, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.062872,
+    "longitude": 88.830713,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 134,
+    "name": "Ghatbaor Vibekananda Saangha",
+    "address": "Ghatbaor, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.069027,
+    "longitude": 88.824103,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 135,
+    "name": "Angarpukuria Bazar Netaji Sangha",
+    "address": "Angarpukuria, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.083788,
+    "longitude": 88.84203,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 136,
+    "name": "Netajinagar Mahila Sangha",
+    "address": "Netajinagar, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.0782,
+    "longitude": 88.840297,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 137,
+    "name": "Ramchandrapur Progati Sangha",
+    "address": "Ramchandrapur, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.079578,
+    "longitude": 88.844475,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 138,
+    "name": "GHATBAOR GHOSHPARA BAGHA JATIN SMRITI SANGHA",
+    "address": "GHATBAOR GHOSHPARA, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.067645,
+    "longitude": 88.829232,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 139,
+    "name": "GHATBAOR SPORTING CLUB",
+    "address": "Ghatbaor, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.068527,
+    "longitude": 88.823702,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 140,
+    "name": "KALMEGHA NABODAY SANGHA",
+    "address": "KALMEGHA, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.0,
+    "longitude": 88.830713,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 141,
+    "name": "KALMEGHA PASHCHIMPARA VIVEKANANDA SANGHA",
+    "address": "KALMEGHA PASHCHIMPARA , PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.07722,
+    "longitude": 88.834708,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 142,
+    "name": "NETAJI NAGAR KALI MANDIR PUJA COMMITTEE",
+    "address": "NETAJI NAGAR, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.073281,
+    "longitude": 88.838953,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 143,
+    "name": "RAMCHANDRAPUR PURBAPARA PUJA COMMITTEE",
+    "address": "RAMCHANDRAPUR PURBAPARA, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.07947,
+    "longitude": 88.848622,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 144,
+    "name": "BOALDAH ADI DURGA PUJA COMMITTEE",
+    "address": "BOALDAH, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.095973,
+    "longitude": 88.850785,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 145,
+    "name": "BOALDAH MADHYAPARA DURGA PUJA COMMITTEE",
+    "address": "BOALDAH MADHYAPARA , PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.093687,
+    "longitude": 88.848964,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 146,
+    "name": "AGRADUT YUVO GASHTHI",
+    "address": "AGRADUT, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.08503,
+    "longitude": 88.84265,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 147,
+    "name": "CHARUIGACHI GBS CLUB",
+    "address": "CHARUIGACHI, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.101105,
+    "longitude": 88.86585,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 148,
+    "name": "CHARUIGACHI PRAGATI SANGHA",
+    "address": "CHARUIGACHI, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.090372,
+    "longitude": 88.867852,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 149,
+    "name": "AROPOTA SCHOOL MATH  PUJA COMMITTEE",
+    "address": "AROPOTA, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.097204,
+    "longitude": 88.842066,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 150,
+    "name": "AROPOTA MANDIR PUJA COMMITTEE",
+    "address": "AROPOTA, PS  Bongaon",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.095973,
+    "longitude": 88.840001,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 151,
+    "name": "Aeropota Uttarpara Kali Mandir Puja Committee",
+    "address": "Aeropota Uttarpara",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.097192,
+    "longitude": 88.842063,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 152,
+    "name": "Churigachi New Life Sporting Club",
+    "address": "Churigachi",
+    "areaOrJurisdiction": "Ghatbaor",
+    "latitude": 23.095533,
+    "longitude": 88.86713,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 153,
+    "name": "Madhabpur Sabuj Sangha Durga Puja Committeee",
+    "address": "Madhabpur, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.08213,
+    "longitude": 88.7907,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 154,
+    "name": "DIAMOND CLUB (Panchita)",
+    "address": "Panchita, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.10668,
+    "longitude": 88.81781,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 155,
+    "name": "ARUNADAYA SANGHA",
+    "address": "Panchita, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.10762,
+    "longitude": 88.81608,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 156,
+    "name": "CHANDA BAZAR SARBAJANIN DURGA PUJA COMMITTEE",
+    "address": "CHANDA BAZAR, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.10783,
+    "longitude": 88.81728,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 157,
+    "name": "SAVAIPUR KRISHOR BAHINI",
+    "address": "SAVAIPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.09405,
+    "longitude": 88.80364,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 158,
+    "name": "SAVAIPUR KALITALA DURGA PUJA COMMITTEE",
+    "address": "SAVAIPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.09537,
+    "longitude": 88.7956,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 159,
+    "name": "SAVAIPUR MURO BATTOLA DURGA PUJA COMMITTEE",
+    "address": "SAVAIPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.09452,
+    "longitude": 88.80845,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 160,
+    "name": "DHARMAPUKURIA GRAM BASHI BRINDHO (near S.B.I)",
+    "address": "Dharmapukuria, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.08813,
+    "longitude": 88.82006,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 161,
+    "name": "MADHABPUR PASCHIMPARA DURGA PUJA COMMITTEE",
+    "address": "MADHABPUR PASCHIMPARA, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.08243,
+    "longitude": 88.78938,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 162,
+    "name": "Madhabpur Sanhati Sporting Club (Ghoshpara)",
+    "address": "Madhabpur, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.08546,
+    "longitude": 88.78523,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 163,
+    "name": "MANIGRAM SARBOJONIN DURGA PUJA COMMITTEE",
+    "address": "MANIGRAM, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.0821,
+    "longitude": 88.80725,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 164,
+    "name": "SUKPUKURIA AMTOLA DURGA PUJA COMMITTEE",
+    "address": "Sukpukuria, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.07034,
+    "longitude": 88.81016,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 165,
+    "name": "GANADAY SANGHA (Roypur)",
+    "address": "(Roypur), PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.09658,
+    "longitude": 88.81971,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 166,
+    "name": "UTTARPARA YUBA GOSTHI (DHARMAPUKURIA)",
+    "address": "UTTARPARA, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.09376,
+    "longitude": 88.81957,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 167,
+    "name": "Dharmapukuria Madhyapara Sporting Club",
+    "address": "Dharmapukuria, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.09089,
+    "longitude": 88.81991,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 168,
+    "name": "Dharmapukuria Udayan Sangha (Post Office Para)",
+    "address": "Dharmapukuria, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.08809,
+    "longitude": 88.81703,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 169,
+    "name": "Sukpukuria Sishu Sangha",
+    "address": "Sukpukuria, PS  Bongaon",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.0686,
+    "longitude": 88.82084,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 170,
+    "name": "Roypur Sarbojonin Durgapuja Committee ( Mandir)",
+    "address": "Roypur",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.10348,
+    "longitude": 88.81339,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 171,
+    "name": "Savaipur Paschimpara Yuba Gosthi",
+    "address": "Savaipur Paschimpara",
+    "areaOrJurisdiction": "Dharmapukuria",
+    "latitude": 23.09671,
+    "longitude": 88.79062,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 172,
+    "name": "Kalambagan Akhay Sangha",
+    "address": "Kalambagan, PO  Ganrapota, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.14436,
+    "longitude": 88.819869,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 173,
+    "name": "Sishu Sangha Chanda Panch Mail",
+    "address": "Chanda Pachmail, PO  Gobrapur, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.1121679,
+    "longitude": 88.81317,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 174,
+    "name": "Nakful Mathpara Amartya Pally Puja Committee",
+    "address": "Nakful Mathpara, PO  Chanda, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.114542,
+    "longitude": 88.788277,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 175,
+    "name": "Nakful Mathpara  Grambasibrindo",
+    "address": "Nakful Mathpara, PO  Chanda, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.112138,
+    "longitude": 88.785173,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 176,
+    "name": "Nakful Milon Sangha",
+    "address": "Nakful, PO  Chanda, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.111115,
+    "longitude": 88.796297,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 177,
+    "name": "Bharatpur Agragami Yuba Sangha",
+    "address": "Vill+PO  Bharatpur,  PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.144085,
+    "longitude": 88.800734,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 178,
+    "name": "Fakirbagan Grambasibrindo",
+    "address": "Fakirbagan, PO  Bharatpur,  PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.127711,
+    "longitude": 88.793879,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 179,
+    "name": "Bediapota Kalitala Puja Committee",
+    "address": "Bediapota, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.113873,
+    "longitude": 88.830396,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 180,
+    "name": "Chanda Agragami Sporting Club",
+    "address": "Chanda, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.114927,
+    "longitude": 88.816657,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 181,
+    "name": "Ganrapota Bazar Kalyan Samiti",
+    "address": "Ganrapota Bazar, PO  Ganrapota, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.135563,
+    "longitude": 88.817659,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 182,
+    "name": "Kamalapur Naba Milan Sangha",
+    "address": "Kamalapur,PO  Ganrapota, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.135363,
+    "longitude": 88.824007,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 183,
+    "name": "Ganrapota Adigrambasi Brinda",
+    "address": "Pagaltala, PO  Ganrapota, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.133707,
+    "longitude": 88.819868,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 184,
+    "name": "Kundipur Shilpi Sangha",
+    "address": "Kundipur, PO  Ganrapota, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.142105,
+    "longitude": 88.81895,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 185,
+    "name": "Gobrapur Mahish Morddini Mondir",
+    "address": "Gobrapur, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.130923,
+    "longitude": 88.812312,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 186,
+    "name": "Gobrapur Pachimpara Puja Committee",
+    "address": "Gobrapur, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.128895,
+    "longitude": 88.812803,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 187,
+    "name": "Raninagar Sarbajanin Puja Committee",
+    "address": "Raninagar, PO  Bharatpur, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.135424,
+    "longitude": 88.80602,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 188,
+    "name": "Golap Sangha",
+    "address": "Ganrapota Dakbanglow, PO  Ganrapota, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.138703,
+    "longitude": 88.818112,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 189,
+    "name": "Gobrapur Dakhin Pally Grambasi Brinda",
+    "address": "Gobrapur, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.12895,
+    "longitude": 88.812803,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 190,
+    "name": "Sabuj Sangha Mahila Samity",
+    "address": "Gobrapur, PS  Bongaon",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.129458,
+    "longitude": 88.810008,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 191,
+    "name": "Murighata Adibasi Mahila Samity",
+    "address": "Murighata",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.123059,
+    "longitude": 88.797496,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 192,
+    "name": "Natunpur Grambanshibrinda Durgapuja Committee",
+    "address": "Natunpur",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.125618,
+    "longitude": 88.79492,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 193,
+    "name": "Ganrapota Pagaltala Hanumanjir Mandir Mahila Puja Committee",
+    "address": "Ganrapota",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.128357,
+    "longitude": 88.820694,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 194,
+    "name": "Nakful Katabagan Grambanshi Brinda Durgapuja Committee",
+    "address": "Nakful Katabagan",
+    "areaOrJurisdiction": "Ganrapota",
+    "latitude": 23.0515,
+    "longitude": 88.835,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 195,
+    "name": "Sutia  naba baroari puja mandir",
+    "address": "Sutia, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.11078813,
+    "longitude": 88.87878219,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 196,
+    "name": "Sutia  Baroari  Puja Committee",
+    "address": "Sutia, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.11009693,
+    "longitude": 88.8806122,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 197,
+    "name": "Arsingri  Youba Gosthi",
+    "address": "Arsingri, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.1135912,
+    "longitude": 88.851212,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 198,
+    "name": "Gram Tangra Dakshinpara Baroari Puja Committee",
+    "address": "Tangra, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.1320474,
+    "longitude": 88.84553,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 199,
+    "name": "Gram Tangra Uttarpara Bottala Baroari  Puja Committee",
+    "address": "Tangra Uttarpara, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.1301138,
+    "longitude": 88.848953,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 200,
+    "name": "Tangra Uttarpara Baroari Puja Committee",
+    "address": "Tangra Uttarpara, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.1351601,
+    "longitude": 88.845097,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 201,
+    "name": "Swami Vivekananda Sporting Club",
+    "address": "Dhoramari, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.1006873,
+    "longitude": 88.850668,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 202,
+    "name": "Dhoramari Sarbojonin Shri Shri Sarodutsab   Committee",
+    "address": "Dhoramari, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.102845,
+    "longitude": 88.850243,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 203,
+    "name": "Tangra Colony Sarbojonin  Baroari Puja Committee",
+    "address": "Tangra Colony PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.117949,
+    "longitude": 88.860018,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 204,
+    "name": "Madhyapara Youba Gosthi",
+    "address": "Madhyapara, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.1172518,
+    "longitude": 88.859599,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 205,
+    "name": "Tangra Colony Dakshinpara Yuba Gosthi",
+    "address": "Tangra Colony PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.114153,
+    "longitude": 88.858046,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 206,
+    "name": "Rajib Nagar Bottala Adhibasi Brinda",
+    "address": "Rajib Nagar Bottala, Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.12349,
+    "longitude": 88.8594504,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 207,
+    "name": "Dhoramari Grambasi Brinda Durga Puja Committee",
+    "address": "Dhoramari, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.102066,
+    "longitude": 88.851613,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 208,
+    "name": "Sutia Nabaranjan samity",
+    "address": "Sutia, PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.11465956,
+    "longitude": 88.882748,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 209,
+    "name": "Club Ananaya Tangra Colony",
+    "address": "Tangra Colony PS  Bongaon",
+    "areaOrJurisdiction": "Tangra",
+    "latitude": 23.1189871,
+    "longitude": 88.858344,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 210,
+    "name": "Patshimulia Purbapara Sarbojonin Durga Mondir Committee",
+    "address": "Patshimulia, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.145101,
+    "longitude": 88.85394,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 211,
+    "name": "Aramdanga Mahila Puja Committee",
+    "address": "Aramdanga, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.164603,
+    "longitude": 88.84772,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 212,
+    "name": "03 No Tangra Colony Nabagato Mahila Samity, Dakshin Bagangram",
+    "address": "Tangra Colony PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.11703574,
+    "longitude": 88.8681581,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 213,
+    "name": "Chotto Bangalani Durga Puja Committee\n( Rash Mandir)",
+    "address": "Chotto Bangalani , PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.1355395,
+    "longitude": 88.8789379,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 214,
+    "name": "Pipli Para Netaji Sporting Club",
+    "address": "Pipli Para, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.13028245,
+    "longitude": 88.86847434,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 215,
+    "name": "Pipli Para Godarkhal Sarbojonin Durgapuja committee",
+    "address": "Pipli Para, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.14513833,
+    "longitude": 88.8675533,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 216,
+    "name": "Rawtara Sarbojonnin Durga Puja Committee",
+    "address": "Rawtara, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.154183,
+    "longitude": 88.85444,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 217,
+    "name": "Bhulot Bright Sporting Club & Grambansi Brinda",
+    "address": "Bhulot , PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.15506,
+    "longitude": 88.86941,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 218,
+    "name": "Joka Srbojonnin Puja committee",
+    "address": "Joka, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.159341,
+    "longitude": 88.857196,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 219,
+    "name": "Krishana Chandra Pur Grambasi Brinda Sarbojonnin Durga Utshab Committee",
+    "address": "Krishana Chandra Pur , PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.154968,
+    "longitude": 88.833521,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 220,
+    "name": "Patsimulia Pachimpara Grambasibrindo Puja Committee",
+    "address": "Patsimulia Pachimpara, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.1461444,
+    "longitude": 88.8525526,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 221,
+    "name": "Swasti Para Grambasibrindo Puja Committee",
+    "address": "Swasti Para, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.15567,
+    "longitude": 88.83454,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 222,
+    "name": "Baro Bangalani Durga Mandir",
+    "address": "Bangalani, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.1355543,
+    "longitude": 88.875638,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 223,
+    "name": "UDAYPUR  SARBAJANIN DURGA UTSAB COMMITTEE",
+    "address": "UDAYPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.1377015,
+    "longitude": 88.8449946,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 224,
+    "name": "Udaypur Baroyari Durga Puja Committee",
+    "address": "UDAYPUR, PS  Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.13695,
+    "longitude": 88.84351,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 225,
+    "name": "Kodlapara Grambasi Brinda, Bhulat",
+    "address": "Kodlapara, PS Bongaon",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.0685,
+    "longitude": 88.845,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 226,
+    "name": "2 No Tangra Colony Matri Sangha",
+    "address": "2 No Tangra Colony",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.031,
+    "longitude": 88.818,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  },
+  {
+    "id": 227,
+    "name": "Bagangram Piplipara Sarbojonin Sri Sri Durga Utshav Committee (Chirermill )",
+    "address": "Bagangram Chirermill",
+    "areaOrJurisdiction": "Sundarpur",
+    "latitude": 23.0315,
+    "longitude": 88.8325,
+    "verificationStatus": "coordinates_present_not_independently_verified"
+  }
+]
