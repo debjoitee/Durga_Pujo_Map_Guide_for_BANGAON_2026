@@ -22,8 +22,8 @@
     "name": "12th Pally Sporting Club",
     "address": "Ramnagar Road, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.04673,
-    "longitude": 88.82911,
+    "latitude": 23.03670111817057, 
+    "longitude": 88.8330100999707,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -76,8 +76,8 @@
     "name": "Amlapara  Athletic Club",
     "address": "Amlapara, PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.044005,
-    "longitude": 88.826507,
+    "latitude": 23.04321928946047,
+    "longitude": 88.82654417023602,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -211,8 +211,8 @@
     "name": "Taltala Athletic Club  (Mahila Puja)",
     "address": "Taltala,  PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.031692,
-    "longitude": 88.842095,
+    "latitude": 23.041126865901422,
+    "longitude": 88.82790816847917,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
