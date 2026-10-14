@@ -4,8 +4,8 @@
     "name": "Iron Gate Sporting Club",
     "address": "Shimultal, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.044614,
-    "longitude": 88.833013,
+    "latitude": 23,
+    "longitude": 88,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -22,8 +22,8 @@
     "name": "12th Pally Sporting Club",
     "address": "Ramnagar Road, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.04673,
-    "longitude": 88.82911,
+    "latitude": 23.0367724,
+    "longitude": 88.8329994,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -31,8 +31,8 @@
     "name": "Avijan Sangha",
     "address": "Korarbagan (Jossore Road) , PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.04015,
-    "longitude": 88.82917,
+    "latitude": 23.0399229,
+    "longitude": 88.8294307,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -49,8 +49,8 @@
     "name": "Pratapgarh Sporting Club",
     "address": "Chakdah Road, PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.049316,
-    "longitude": 88.82381,
+    "latitude": 23.04917,
+    "longitude": 88.82377,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -112,8 +112,8 @@
     "name": "Agiye Cholo Sangha (03 No. Tali Khola)",
     "address": "03 No. Talikhola, PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.049315,
-    "longitude": 88.832249,
+    "latitude": 23,
+    "longitude": 88,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -139,8 +139,8 @@
     "name": "Diamond Club (Basakpara)",
     "address": "Basakpara,  PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.043672,
-    "longitude": 88.83971,
+    "latitude": 23.02,
+    "longitude": 88.49,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -148,8 +148,8 @@
     "name": "Jnan Bikashini Sangha",
     "address": "Military Road,  PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.04775,
-    "longitude": 88.841015,
+    "latitude": 21.88889,
+    "longitude": 84.98,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -193,8 +193,8 @@
     "name": "Railway Sarbajanin Durga Puja Committee (Vaijayanta Club)",
     "address": "Station Road (near Bongaon Station)  PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.032548,
-    "longitude": 88.841634,
+    "latitude": 23.030372,
+    "longitude": 88.832975,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -229,8 +229,8 @@
     "name": "Udayan Sangha",
     "address": "Kurirmath,  PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.032306,
-    "longitude": 88.840552,
+    "latitude": 23.037924,
+    "longitude": 88.828204,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -238,8 +238,8 @@
     "name": "11 Pally Yuba Gosthi",
     "address": "Duttapara,  PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.040803,
-    "longitude": 88.830899,
+    "latitude": 23.040848,
+    "longitude": 88.830945,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -256,8 +256,8 @@
     "name": "Shimultala Santi Sangha",
     "address": "Shimultala,  PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.04156,
-    "longitude": 88.833816,
+    "latitude": 23,
+    "longitude": 88,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -265,8 +265,8 @@
     "name": "Motiganj Agiye Chalo Sangha",
     "address": "Motiganj Bus Stand, PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.04661,
-    "longitude": 88.83522,
+    "latitude": 23.2967,
+    "longitude": 88.49033,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -274,8 +274,8 @@
     "name": "Subhasnagar Sporting Club",
     "address": "Subhasnagar PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.033771,
-    "longitude": 88.822609,
+    "latitude": 23.038453,
+    "longitude": 88.824929,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -283,8 +283,8 @@
     "name": "United Sporting Club",
     "address": "Champaberiya Road,  PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.032159,
-    "longitude": 88.828539,
+    "latitude": 23.0492775,
+    "longitude": 88.8155557,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -292,8 +292,8 @@
     "name": "Saktigarh Milan Sangha",
     "address": "Saktigarh,  PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.035403,
-    "longitude": 88.826828,
+    "latitude": 23.04669,
+    "longitude": 88.82102,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -346,8 +346,8 @@
     "name": "Kanthaltala Sporting Club",
     "address": "Motiganj Fire Bidge Road, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.04847,
-    "longitude": 88.835519,
+    "latitude": 24,
+    "longitude": 88,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -355,8 +355,8 @@
     "name": "Durga Puja Committee office of the S.S.E/P.W. BNJ",
     "address": "Station Road (near Bongaon Station)  PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.048562,
-    "longitude": 88.822708,
+    "latitude": 23.030129,
+    "longitude": 88.833125,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -364,8 +364,8 @@
     "name": "Bongaon Sporting Club",
     "address": "Amlapara, PS  Bongaon.",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.042305,
-    "longitude": 88.829953,
+    "latitude": 23.043146,
+    "longitude": 88.827592,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -454,8 +454,8 @@
     "name": "Collegepara Durga Puja Committee",
     "address": "Collegepara, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.056583,
-    "longitude": 88.828235,
+    "latitude": 23.0558102,
+    "longitude": 88.828461,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -472,8 +472,8 @@
     "name": "Bibhuti Bhusan  Sansakriti  Sanstha (Kuthibari)",
     "address": "Kuthibari near bagdah Road, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.055473,
-    "longitude": 88.832013,
+    "latitude": 23,
+    "longitude": 88,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -481,8 +481,8 @@
     "name": "Matiganj Sporting Club",
     "address": "Netaji market near Jossore Road, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.045838,
-    "longitude": 88.834787,
+    "latitude": 34,
+    "longitude": 85,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -490,8 +490,8 @@
     "name": "Bongaon Purbapara Progati Sangha",
     "address": "Purbapara, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.03726,
-    "longitude": 88.837659,
+    "latitude": 23.02,
+    "longitude": 88.5,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -508,8 +508,8 @@
     "name": "Sonali Sporting Club",
     "address": "Sonalir More, Court Road, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.0475,
-    "longitude": 88.8242,
+    "latitude": 21,
+    "longitude": 86,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -517,8 +517,8 @@
     "name": "Ujjal Meghalaya Sangha (Shimultala)",
     "address": "shimultala, Chamrakuti Road, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.046396,
-    "longitude": 88.837389,
+    "latitude": 36,
+    "longitude": 86,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -544,8 +544,8 @@
     "name": "Netaji Sangha ,Purbapara",
     "address": "Purbapara (Khaldhar) PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.034755,
-    "longitude": 88.839248,
+    "latitude": 22.6833,
+    "longitude": 88.45,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -553,8 +553,8 @@
     "name": "Purbanchal Adhibasi Brinda, Rail Bazar",
     "address": "Rail Bazar, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.030805,
-    "longitude": 88.834305,
+    "latitude": 23.02868,
+    "longitude": 88.835674,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -562,8 +562,8 @@
     "name": "Shimultala Bankim Smriti Sangha",
     "address": "Shimultala, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.039405,
-    "longitude": 88.841128,
+    "latitude": 23.038962,
+    "longitude": 88.837893,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -580,8 +580,8 @@
     "name": "Champaberia Biplab Sangha",
     "address": "Champaberia, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.052373,
-    "longitude": 88.815103,
+    "latitude": 23.0544236,
+    "longitude": 88.8195897,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -607,8 +607,8 @@
     "name": "JOYPUR AKOTA SANGHA SARBOJIN DURGA PUJA COMMITTEE",
     "address": "JOYPUR, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.033299,
-    "longitude": 88.842774,
+    "latitude": 23,
+    "longitude": 88,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -616,8 +616,8 @@
     "name": "JOYUR SARBOJONIN DURGA UTSOB COMMITTEE",
     "address": "JOYPUR, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.047533,
-    "longitude": 88.840174,
+    "latitude": 30,
+    "longitude": 84,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -625,8 +625,8 @@
     "name": "BELTOLA NOBORAG SANGHA",
     "address": "Shimultala, Bhabanipur  Road, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.032878,
-    "longitude": 88.841027,
+    "latitude": 23,
+    "longitude": 88,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -634,8 +634,8 @@
     "name": "JOYPUR FULTOLA COLONY SPORTING CLUB",
     "address": "JOYPUR, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.0552,
-    "longitude": 88.8285,
+    "latitude": 37,
+    "longitude": 84,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
@@ -643,8 +643,8 @@
     "name": "Joypur Mathpara Kishore Sangha",
     "address": "JOYPUR, PS  Bongaon",
     "areaOrJurisdiction": "Municipality",
-    "latitude": 23.0512,
-    "longitude": 88.8256,
+    "latitude": 29.999999998,
+    "longitude": 90,
     "verificationStatus": "coordinates_present_not_independently_verified"
   },
   {
